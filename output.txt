@@ -1,0 +1,6 @@
+Number of employees: 4
+Here the goodies that are selected for distribution are:
+7980
+9800
+9999
+11101
